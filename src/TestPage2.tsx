@@ -8,7 +8,7 @@ function OpeningTextBox_Page2() {
     const navigate = useNavigate();
 
     return (
-        <div>
+        <div className = "Main-Container">
             <h1>Hello World, but on the second page!</h1>
             <button onClick={() => navigate("/")}>Go Back to First Page</button>
         </div>

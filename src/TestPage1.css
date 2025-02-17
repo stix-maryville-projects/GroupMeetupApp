@@ -1,0 +1,125 @@
+/* Set the background color for the top & bottom margins */
+body {
+    font-family: 'Poppins', sans-serif;
+    color: #AB5113;
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(to bottom, #FFDF9C, #FCEED1); /* Color for margins */
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+  }
+  
+  /* Main content */
+  .page-wrapper {
+    background: linear-gradient(to top,#D2FFF5, #d4fafa); /* Main content background */
+    width: 100vw; /* Ensures full width */
+    min-height: 80vh; /* Creates space for top & bottom margins */
+    margin-top: 50px; /* Top margin */
+    margin-bottom: 50px; /* Bottom margin */
+    padding: 20px;
+  }
+
+.home-button-container {
+  position: absolute;
+  top: 5px;
+  left: 5px;
+  background: transparent !important;
+  padding: 0;
+  margin: 0;
+}
+
+.home-button-container button {
+  all: unset; 
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: auto;
+  height: auto;
+  cursor: pointer;
+  background: transparent !important;
+  border: none !important;
+}
+
+/* Remove unwanted focus styles */
+.home-button-container button:focus,
+.home-button-container button:active {
+  outline: none !important;
+  box-shadow: none !important;
+  border: none !important;
+}
+
+/* Remove mobile/safari click highlight */
+.home-button-container button img {
+  -webkit-tap-highlight-color: transparent;
+}
+
+/* Ensure the image is displayed properly */
+.home-icon {
+  width: 40px; /* Adjust size as needed */
+  height: auto;
+  display: block;
+  background: transparent !important;
+  pointer-events: none; /* Prevents click events on the image itself */
+}
+
+.notifications {
+  width: 40px;
+  height: auto;
+  display: block;
+  background: transparent;
+  pointer-events: none;
+}
+
+.notifications-button-container {
+  position: absolute;
+  top: 5px;
+  right: 5px; /* Position it on the top-right corner */
+  background: transparent !important;
+  padding: 0;
+  margin: 0;
+}
+
+/* Reset all button styles */
+.notifications-button-container button {
+  all: unset; /* Resets default styles */
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: auto;
+  height: auto;
+  cursor: pointer;
+  background: transparent !important;
+  border: none !important;
+}
+
+/* Ensure the image is displayed properly */
+.notifications-icon {
+  width: 40px; /* Adjust size as needed */
+  height: auto;
+  display: block;
+  background: transparent !important;
+  pointer-events: none; /* Prevents click events on the image itself */
+}
+
+/* Simple CSS for Message Square Button */
+.message-square-button-container {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  padding: 0;
+  margin: 0;
+}
+
+.message-square-button-container button {
+  background: none;
+  border: none;
+  padding: 0;
+  margin: 0;
+  cursor: pointer;
+}
+
+.message-square-button-container button img {
+  width: 40px; /* Adjust the size as needed */
+  height: 40px;
+}
