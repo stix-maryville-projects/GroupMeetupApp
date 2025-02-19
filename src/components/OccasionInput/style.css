@@ -1,0 +1,23 @@
+.occasion-input {
+  background-color: #fceed1;
+  border: 2px solid;
+  border-color: #ab5013;
+  border-radius: 5px;
+  height: 48px;
+  position: relative;
+  width: 360px;
+}
+
+.occasion-input .text-wrapper-7 {
+  color: #ab5013;
+  font-family: "Poppins", Helvetica;
+  font-size: 20px;
+  font-weight: 500;
+  height: 36px;
+  left: 11px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 3px;
+  width: 194px;
+}

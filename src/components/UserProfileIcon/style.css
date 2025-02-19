@@ -1,0 +1,17 @@
+.user-profile-icon {
+  background-color: #fceed1;
+  border: 5px solid;
+  border-color: #ab5013;
+  border-radius: 75px;
+  height: 150px;
+  position: relative;
+  width: 150px;
+}
+
+.user-profile-icon .user-instance {
+  height: 92px !important;
+  left: 24px !important;
+  position: absolute !important;
+  top: 24px !important;
+  width: 92px !important;
+}

@@ -1,0 +1,294 @@
+.upcoming-events {
+  background-color: rgba(255, 255, 255, 1.0);
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.upcoming-events .div-5 {
+  background: linear-gradient(
+    180deg,
+    rgb(242.25, 254.58, 255) 0%,
+    rgb(210.37, 255, 244.59) 100%
+  );
+  background-color: rgba(255, 255, 255, 1.0);
+  height: 1219px;
+  position: relative;
+  width: 1440px;
+}
+
+.upcoming-events .navigation-bar-w-instance {
+  left: 0 !important;
+  position: absolute !important;
+  top: 0 !important;
+}
+
+.upcoming-events .overlap-11 {
+  height: 535px;
+  left: 78px;
+  position: absolute;
+  top: 169px;
+  width: 1341px;
+}
+
+.upcoming-events .event-descriptor {
+  background: linear-gradient(
+    180deg,
+    rgb(252, 238, 209) 0%,
+    rgb(255, 222.83, 156.19) 100%
+  );
+  border-radius: 5px;
+  height: 110px;
+  left: 2px;
+  position: absolute;
+  top: 141px;
+  width: 1219px;
+}
+
+.upcoming-events .overlap-12 {
+  height: 87px;
+  left: 12px;
+  position: absolute;
+  top: 7px;
+  width: 1028px;
+}
+
+.upcoming-events .text-wrapper-24 {
+  color: #ab5013;
+  font-family: "Fredoka One", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  height: 47px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 290px;
+}
+
+.upcoming-events .this-is-where-the {
+  color: #ab5013;
+  font-family: "Poppins", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  height: 47px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 40px;
+  width: 1028px;
+}
+
+.upcoming-events .overlap-group-6 {
+  border-radius: 5px;
+  height: 53px;
+  left: 1064px;
+  position: absolute;
+  top: 29px;
+  width: 140px;
+}
+
+.upcoming-events .rectangle-8 {
+  background: linear-gradient(
+    180deg,
+    rgb(255, 128, 164) 0%,
+    rgb(255, 82.87, 131.67) 100%
+  );
+  border-radius: 5px;
+  box-shadow: 0px 4px 4px #00000040;
+  display: block;
+  height: 53px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 140px;
+}
+
+.upcoming-events .text-wrapper-25 {
+  color: #ffde9c;
+  font-family: "Poppins", Helvetica;
+  font-size: 20px;
+  font-weight: 500;
+  height: 37px;
+  left: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  text-shadow: 0px 4px 4px #00000040;
+  top: 7px;
+  width: 115px;
+}
+
+.upcoming-events .event-descriptor-2 {
+  background: linear-gradient(
+    180deg,
+    rgb(252, 238, 209) 0%,
+    rgb(255, 222.83, 156.19) 100%
+  );
+  border-radius: 5px;
+  height: 110px;
+  left: 2px;
+  position: absolute;
+  top: 273px;
+  width: 1219px;
+}
+
+.upcoming-events .event-descriptor-3 {
+  background: linear-gradient(
+    180deg,
+    rgb(252, 238, 209) 0%,
+    rgb(255, 222.83, 156.19) 100%
+  );
+  border-radius: 5px;
+  height: 110px;
+  left: 2px;
+  position: absolute;
+  top: 405px;
+  width: 1219px;
+}
+
+.upcoming-events .overlap-13 {
+  height: 61px;
+  left: 1060px;
+  position: absolute;
+  top: 29px;
+  width: 148px;
+}
+
+.upcoming-events .rectangle-9 {
+  display: block;
+  height: 61px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 148px;
+}
+
+.upcoming-events .text-wrapper-26 {
+  color: #ffde9c;
+  font-family: "Poppins", Helvetica;
+  font-size: 20px;
+  font-weight: 500;
+  height: 37px;
+  left: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  text-shadow: 0px 4px 4px #00000040;
+  top: 7px;
+  width: 115px;
+}
+
+.upcoming-events .other-stuff {
+  height: 535px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1341px;
+}
+
+.upcoming-events .overlap-14 {
+  background-color: #fceed1;
+  border-radius: 5px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 535px;
+  left: 1299px;
+  position: absolute;
+  top: 0;
+  width: 38px;
+}
+
+.upcoming-events .rectangle-10 {
+  background-color: #ad6737;
+  border-radius: 5px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 72px;
+  position: relative;
+  top: 27px;
+}
+
+.upcoming-events .overlap-15 {
+  background-color: #fceed1;
+  border: 2px solid;
+  border-color: #ab5013;
+  border-radius: 5px;
+  height: 48px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 477px;
+}
+
+.upcoming-events .text-wrapper-27 {
+  color: #ab5013;
+  font-family: "Poppins", Helvetica;
+  font-size: 20px;
+  font-weight: 500;
+  height: 37px;
+  left: 7px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 3px;
+  width: 457px;
+}
+
+.upcoming-events .overlap-16 {
+  background-color: #fceed1;
+  border: 2px solid;
+  border-color: #ab5013;
+  border-radius: 5px;
+  height: 40px;
+  left: 0;
+  position: absolute;
+  top: 58px;
+  width: 125px;
+}
+
+.upcoming-events .text-wrapper-28 {
+  color: #ab5013;
+  font-family: "Poppins", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  height: 28px;
+  left: 10px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 4px;
+  width: 102px;
+}
+
+.upcoming-events .icon {
+  height: 36px;
+  left: 498px;
+  position: absolute;
+  top: 6px;
+  width: 36px;
+}
+
+.upcoming-events .event-descriptor-4 {
+  background: linear-gradient(
+    180deg,
+    rgb(252, 238, 209) 0%,
+    rgb(255, 222.83, 156.19) 100%
+  );
+  border-radius: 5px;
+  height: 110px;
+  left: 80px;
+  position: absolute;
+  top: 706px;
+  width: 1219px;
+}
+
+.upcoming-events .footer-2 {
+  background-color: transparent !important;
+  left: 0 !important;
+  position: absolute !important;
+  top: 939px !important;
+}

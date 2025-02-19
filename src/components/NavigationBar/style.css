@@ -1,0 +1,63 @@
+.navigation-bar {
+  background: linear-gradient(
+    180deg,
+    rgb(252, 238, 209) 0%,
+    rgb(255, 222.83, 156.19) 100%
+  );
+  height: 126px;
+  position: relative;
+  width: 1440px;
+}
+
+.navigation-bar .design-component-instance-node {
+  left: 1355px !important;
+  position: absolute !important;
+  top: 39px !important;
+}
+
+.navigation-bar .search {
+  height: 48px !important;
+  left: 804px !important;
+  position: absolute !important;
+  top: 39px !important;
+  width: 48px !important;
+}
+
+.navigation-bar .zip-code-input-instance {
+  background-color: #fceed1 !important;
+  border-color: #ab5013 !important;
+  border-radius: 5px !important;
+  left: 208px !important;
+  position: absolute !important;
+  top: 39px !important;
+}
+
+.navigation-bar .design-component-instance-node-2 {
+  color: #ab5013 !important;
+  font-family: "Poppins", Helvetica !important;
+  font-weight: 500 !important;
+}
+
+.navigation-bar .distance-input-instance {
+  background-color: #fceed1 !important;
+  border-color: #ab5013 !important;
+  border-radius: 5px !important;
+  left: 460px !important;
+  position: absolute !important;
+  top: 39px !important;
+}
+
+.navigation-bar .message-square-2 {
+  left: 1281px !important;
+  position: absolute !important;
+  top: 39px !important;
+}
+
+.navigation-bar .home-button-2 {
+  display: block;
+  height: 84px;
+  left: 36px;
+  position: absolute;
+  top: 21px;
+  width: 84px;
+}

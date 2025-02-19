@@ -1,0 +1,60 @@
+.image {
+  display: block;
+  height: 237px;
+  position: relative;
+  width: 360px;
+}
+
+.image .event-title-short {
+  color: #ab5013;
+  font-family: "Fredoka One", Helvetica;
+  font-size: 32px;
+  font-weight: 400;
+  height: 139px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 242px;
+  width: 360px;
+}
+
+.image .span {
+  color: #ab5013;
+  font-family: "Fredoka One", Helvetica;
+  font-size: 32px;
+  font-weight: 400;
+  letter-spacing: 0;
+}
+
+.image .text-wrapper-15 {
+  font-family: "Poppins", Helvetica;
+  font-size: 24px;
+  font-weight: 500;
+}
+
+.image .text-wrapper-16 {
+  font-family: "Poppins", Helvetica;
+  font-size: 20px;
+  font-weight: 500;
+}
+
+.image .image-wrapper {
+  background-color: #fceed1;
+  border: 2px solid;
+  border-color: #ab5013;
+  border-radius: 5px;
+  height: 237px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 360px;
+}
+
+.image .image-7 {
+  height: 129px !important;
+  left: 113px !important;
+  position: absolute !important;
+  top: 52px !important;
+  width: 129px !important;
+}

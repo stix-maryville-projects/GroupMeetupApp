@@ -1,0 +1,334 @@
+.eventview-owner {
+  background-color: rgba(255, 255, 255, 1.0);
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.eventview-owner .div-9 {
+  background: linear-gradient(
+    180deg,
+    rgb(242.25, 254.58, 255) 0%,
+    rgb(210.37, 255, 244.59) 100%
+  );
+  background-color: rgba(255, 255, 255, 1.0);
+  height: 1050px;
+  position: relative;
+  width: 1440px;
+}
+
+.eventview-owner .navigation-bar-w-2 {
+  left: 0 !important;
+  position: absolute !important;
+  top: 0 !important;
+}
+
+.eventview-owner .overlap-wrapper {
+  height: 364px;
+  left: 979px;
+  position: absolute;
+  top: 165px;
+  width: 400px;
+}
+
+.eventview-owner .overlap-31 {
+  background: linear-gradient(
+    180deg,
+    rgb(255, 128, 164) 0%,
+    rgb(255, 82.87, 131.67) 100%
+  );
+  height: 444px;
+  position: relative;
+}
+
+.eventview-owner .overlap-32 {
+  background: linear-gradient(
+    180deg,
+    rgb(252, 238, 209) 0%,
+    rgb(255, 222.83, 156.19) 100%
+  );
+  box-shadow: 0px 4px 4px #00000040;
+  height: 75px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 400px;
+}
+
+.eventview-owner .text-wrapper-49 {
+  color: #ab5013;
+  font-family: "Fredoka One", Helvetica;
+  font-size: 40px;
+  font-weight: 400;
+  height: 53px;
+  left: 23px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-shadow: 0px 4px 4px #00000040;
+  top: 10px;
+  width: 185px;
+}
+
+.eventview-owner .overlap-33 {
+  background-color: #fceed1;
+  border-radius: 5px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 316px;
+  left: 351px;
+  position: absolute;
+  top: 94px;
+  width: 38px;
+}
+
+.eventview-owner .rectangle-18 {
+  background-color: #ad6737;
+  border-radius: 5px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 83px;
+  position: relative;
+  top: 19px;
+}
+
+.eventview-owner .overlap-34 {
+  height: 38px;
+  left: 14px;
+  position: absolute;
+  top: 93px;
+  width: 260px;
+}
+
+.eventview-owner .rectangle-19 {
+  background-color: #fceed1;
+  border: 2px solid;
+  border-color: #ab5013;
+  border-radius: 5px;
+  height: 37px;
+  left: 0;
+  position: absolute;
+  top: 1px;
+  width: 260px;
+}
+
+.eventview-owner .text-wrapper-50 {
+  color: #ab5013;
+  font-family: "Poppins", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  height: 36px;
+  left: 10px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 239px;
+}
+
+.eventview-owner .overlap-group-8 {
+  height: 38px;
+  left: 14px;
+  position: absolute;
+  top: 144px;
+  width: 260px;
+}
+
+.eventview-owner .overlap-35 {
+  height: 38px;
+  left: 14px;
+  position: absolute;
+  top: 195px;
+  width: 260px;
+}
+
+.eventview-owner .rectangle-20 {
+  background-color: #fceed1;
+  border: 2px solid;
+  border-color: #ab5013;
+  border-radius: 5px;
+  height: 37px;
+  left: 288px;
+  position: absolute;
+  top: 95px;
+  width: 37px;
+}
+
+.eventview-owner .rectangle-21 {
+  background-color: #fceed1;
+  border: 2px solid;
+  border-color: #ab5013;
+  border-radius: 5px;
+  height: 37px;
+  left: 288px;
+  position: absolute;
+  top: 145px;
+  width: 37px;
+}
+
+.eventview-owner .rectangle-22 {
+  background-color: #fceed1;
+  border: 2px solid;
+  border-color: #ab5013;
+  border-radius: 5px;
+  height: 37px;
+  left: 288px;
+  position: absolute;
+  top: 196px;
+  width: 37px;
+}
+
+.eventview-owner .footer-4 {
+  background-color: transparent !important;
+  left: 0 !important;
+  position: absolute !important;
+  top: 770px !important;
+}
+
+.eventview-owner .text-wrapper-51 {
+  color: #ab5013;
+  font-family: "Poppins", Helvetica;
+  font-size: 40px;
+  font-weight: 500;
+  height: 60px;
+  left: 78px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 164px;
+  width: 390px;
+}
+
+.eventview-owner .group {
+  height: 60px;
+  left: 78px;
+  position: absolute;
+  top: 240px;
+  width: 203px;
+}
+
+.eventview-owner .overlap-36 {
+  height: 62px;
+  position: relative;
+  width: 205px;
+}
+
+.eventview-owner .text-wrapper-52 {
+  color: #ab5013;
+  font-family: "Poppins", Helvetica;
+  font-size: 32px;
+  font-weight: 500;
+  height: 60px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 159px;
+}
+
+.eventview-owner .pollbutton-4 {
+  height: 56px !important;
+  left: 149px !important;
+  position: absolute !important;
+  top: 6px !important;
+  width: 56px !important;
+}
+
+.eventview-owner .group-2 {
+  height: 60px;
+  left: 336px;
+  position: absolute;
+  top: 240px;
+  width: 144px;
+}
+
+.eventview-owner .text-wrapper-53 {
+  color: #ab5013;
+  font-family: "Poppins", Helvetica;
+  font-size: 32px;
+  font-weight: 500;
+  height: 60px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 86px;
+}
+
+.eventview-owner .pollbutton-5 {
+  height: 56px !important;
+  left: 90px !important;
+  position: absolute !important;
+  top: 6px !important;
+  width: 56px !important;
+}
+
+.eventview-owner .overlap-group-wrapper {
+  height: 60px;
+  left: 539px;
+  position: absolute;
+  top: 240px;
+  width: 146px;
+}
+
+.eventview-owner .overlap-37 {
+  height: 62px;
+  position: relative;
+  width: 148px;
+}
+
+.eventview-owner .text-wrapper-54 {
+  color: #ab5013;
+  font-family: "Poppins", Helvetica;
+  font-size: 32px;
+  font-weight: 500;
+  height: 60px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 96px;
+}
+
+.eventview-owner .pollbutton-6 {
+  height: 56px !important;
+  left: 92px !important;
+  position: absolute !important;
+  top: 6px !important;
+  width: 56px !important;
+}
+
+.eventview-owner .description-input-2 {
+  top: 13px !important;
+}
+
+.eventview-owner .description-input-3 {
+  height: 376px !important;
+  left: 78px !important;
+  position: absolute !important;
+  top: 346px !important;
+}
+
+.eventview-owner .finish-set-up-button-5 {
+  font-size: 25px !important;
+  left: 5px !important;
+  width: 175px !important;
+}
+
+.eventview-owner .finish-set-up-button-6 {
+  left: 1194px !important;
+  position: absolute !important;
+  top: 632px !important;
+  width: 185px !important;
+}
+
+.eventview-owner .finish-set-up-button-7 {
+  display: block;
+  height: 98px;
+  left: 975px;
+  position: absolute;
+  top: 633px;
+  width: 193px;
+}

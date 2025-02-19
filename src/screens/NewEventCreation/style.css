@@ -1,0 +1,129 @@
+.new-event-creation {
+  background-color: rgba(255, 255, 255, 1.0);
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.new-event-creation .div-3 {
+  background: linear-gradient(
+    180deg,
+    rgb(242.25, 254.58, 255) 0%,
+    rgb(210.37, 255, 244.59) 100%
+  );
+  background-color: rgba(255, 255, 255, 1.0);
+  height: 1027px;
+  overflow: hidden;
+  position: relative;
+  width: 1440px;
+}
+
+.new-event-creation .footer-instance {
+  background-color: transparent !important;
+  left: -3px !important;
+  position: absolute !important;
+  top: 747px !important;
+}
+
+.new-event-creation .event-title-input-instance {
+  left: 67px !important;
+  position: absolute !important;
+  top: 194px !important;
+}
+
+.new-event-creation .description-input-instance {
+  left: 67px !important;
+  position: absolute !important;
+  top: 417px !important;
+}
+
+.new-event-creation .location-input-instance {
+  left: 67px !important;
+  position: absolute !important;
+  top: 296px !important;
+}
+
+.new-event-creation .date-input-instance {
+  left: 430px !important;
+  position: absolute !important;
+  top: 296px !important;
+}
+
+.new-event-creation .overlap-5 {
+  height: 48px;
+  left: 685px;
+  position: absolute;
+  top: 296px;
+  width: 169px;
+}
+
+.new-event-creation .time-input-instance {
+  left: 0 !important;
+  position: absolute !important;
+  top: 0 !important;
+}
+
+.new-event-creation .time-input-2 {
+  color: #ab5013 !important;
+  font-family: "Poppins", Helvetica !important;
+  font-weight: 500 !important;
+  top: 2px !important;
+}
+
+.new-event-creation .time-input-3 {
+  background-color: #fceed1 !important;
+  border-color: #ab5013 !important;
+  border-radius: 5px !important;
+  left: 0 !important;
+  position: absolute !important;
+  top: 0 !important;
+}
+
+.new-event-creation .occasion-input-instance {
+  left: 553px !important;
+  position: absolute !important;
+  top: 194px !important;
+}
+
+.new-event-creation .poll-button {
+  height: 56px !important;
+  left: 350px !important;
+  position: absolute !important;
+  top: 296px !important;
+  width: 56px !important;
+}
+
+.new-event-creation .pollbutton-2 {
+  height: 56px !important;
+  left: 861px !important;
+  position: absolute !important;
+  top: 296px !important;
+  width: 56px !important;
+}
+
+.new-event-creation .pollbutton-3 {
+  height: 56px !important;
+  left: 606px !important;
+  position: absolute !important;
+  top: 296px !important;
+  width: 56px !important;
+}
+
+.new-event-creation .invite-panel-instance {
+  left: 979px !important;
+  position: absolute !important;
+  top: 194px !important;
+}
+
+.new-event-creation .finish-set-up-button-instance {
+  left: 979px !important;
+  position: absolute !important;
+  top: 590px !important;
+}
+
+.new-event-creation .navigation-bar-w-page-title {
+  left: 0 !important;
+  position: absolute !important;
+  top: 1px !important;
+}
