@@ -1,0 +1,29 @@
+.new-event {
+  display: block;
+  height: 84px;
+  position: relative;
+  width: 225px;
+}
+
+.new-event .div {
+  font-family: "Fredoka One", Helvetica;
+  font-size: 32px;
+  font-weight: 400;
+  height: 84px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  text-shadow: 0px 4px 4px #00000040;
+  top: -1px;
+  width: 225px;
+}
+
+.new-event .property-1-default {
+  color: #fceed1;
+}
+
+.new-event .property-1-variant-2 {
+  color: #ffde9c;
+}

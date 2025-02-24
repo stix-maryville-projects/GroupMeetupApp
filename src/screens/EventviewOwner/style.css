@@ -1,0 +1,512 @@
+.eventview-owner {
+  background-color: rgba(255, 255, 255, 1.0);
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.eventview-owner .div-8 {
+  background: linear-gradient(
+    180deg,
+    rgb(242.25, 254.58, 255) 0%,
+    rgb(210.37, 255, 244.59) 100%
+  );
+  background-color: rgba(255, 255, 255, 1.0);
+  height: 1050px;
+  position: relative;
+  width: 1440px;
+}
+
+.eventview-owner .navigation-bar-w-5 {
+  background: linear-gradient(
+    180deg,
+    rgb(252, 238, 209) 0%,
+    rgb(255, 222.83, 156.19) 100%
+  );
+  height: 126px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.eventview-owner .notifications-6 {
+  left: 1355px !important;
+  position: absolute !important;
+  top: 39px !important;
+}
+
+.eventview-owner .new-event-5 {
+  color: #ab5013;
+  font-family: "Fredoka One", Helvetica;
+  font-size: 40px;
+  font-weight: 400;
+  height: 78px;
+  left: 512px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 50px;
+  width: 416px;
+}
+
+.eventview-owner .message-square-6 {
+  left: 1281px !important;
+  position: absolute !important;
+  top: 39px !important;
+}
+
+.eventview-owner .home-button-7 {
+  display: block;
+  height: 84px;
+  left: 36px;
+  position: absolute;
+  top: 21px;
+  width: 84px;
+}
+
+.eventview-owner .overlap-group-wrapper {
+  height: 364px;
+  left: 979px;
+  position: absolute;
+  top: 165px;
+  width: 400px;
+}
+
+.eventview-owner .overlap-group-11 {
+  background: linear-gradient(
+    180deg,
+    rgb(255, 128, 164) 0%,
+    rgb(255, 82.87, 131.67) 100%
+  );
+  height: 444px;
+  position: relative;
+}
+
+.eventview-owner .overlap-53 {
+  background: linear-gradient(
+    180deg,
+    rgb(252, 238, 209) 0%,
+    rgb(255, 222.83, 156.19) 100%
+  );
+  box-shadow: 0px 4px 4px #00000040;
+  height: 75px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 400px;
+}
+
+.eventview-owner .text-wrapper-62 {
+  color: #ab5013;
+  font-family: "Fredoka One", Helvetica;
+  font-size: 40px;
+  font-weight: 400;
+  height: 53px;
+  left: 23px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-shadow: 0px 4px 4px #00000040;
+  top: 10px;
+  width: 185px;
+}
+
+.eventview-owner .overlap-54 {
+  background-color: #fceed1;
+  border-radius: 5px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 316px;
+  left: 351px;
+  position: absolute;
+  top: 94px;
+  width: 38px;
+}
+
+.eventview-owner .rectangle-24 {
+  background-color: #ad6737;
+  border-radius: 5px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 83px;
+  position: relative;
+  top: 19px;
+}
+
+.eventview-owner .overlap-55 {
+  height: 38px;
+  left: 14px;
+  position: absolute;
+  top: 93px;
+  width: 260px;
+}
+
+.eventview-owner .rectangle-25 {
+  background-color: #fceed1;
+  border: 2px solid;
+  border-color: #ab5013;
+  border-radius: 5px;
+  height: 37px;
+  left: 0;
+  position: absolute;
+  top: 1px;
+  width: 260px;
+}
+
+.eventview-owner .text-wrapper-63 {
+  color: #ab5013;
+  font-family: "Poppins-Regular", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  height: 36px;
+  left: 10px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 239px;
+}
+
+.eventview-owner .overlap-56 {
+  height: 38px;
+  left: 14px;
+  position: absolute;
+  top: 144px;
+  width: 260px;
+}
+
+.eventview-owner .overlap-57 {
+  height: 38px;
+  left: 14px;
+  position: absolute;
+  top: 195px;
+  width: 260px;
+}
+
+.eventview-owner .rectangle-26 {
+  background-color: #fceed1;
+  border: 2px solid;
+  border-color: #ab5013;
+  border-radius: 5px;
+  height: 37px;
+  left: 288px;
+  position: absolute;
+  top: 95px;
+  width: 37px;
+}
+
+.eventview-owner .rectangle-27 {
+  background-color: #fceed1;
+  border: 2px solid;
+  border-color: #ab5013;
+  border-radius: 5px;
+  height: 37px;
+  left: 288px;
+  position: absolute;
+  top: 145px;
+  width: 37px;
+}
+
+.eventview-owner .rectangle-28 {
+  background-color: #fceed1;
+  border: 2px solid;
+  border-color: #ab5013;
+  border-radius: 5px;
+  height: 37px;
+  left: 288px;
+  position: absolute;
+  top: 196px;
+  width: 37px;
+}
+
+.eventview-owner .footer-8 {
+  background: linear-gradient(
+    180deg,
+    rgb(252, 238, 209) 0%,
+    rgb(255, 222.83, 156.19) 100%
+  );
+  background-color: transparent;
+  height: 280px;
+  left: 0;
+  position: absolute;
+  top: 770px;
+  width: 1440px;
+}
+
+.eventview-owner .overlap-58 {
+  background-color: #d9d9d9;
+  border: 2px solid;
+  border-color: #000000;
+  border-radius: 42px;
+  height: 84px;
+  left: 1311px;
+  position: absolute;
+  top: 161px;
+  width: 84px;
+}
+
+.eventview-owner .line-13 {
+  height: 59px;
+  left: 12px;
+  position: absolute;
+  top: 10px;
+  width: 59px;
+}
+
+.eventview-owner .line-14 {
+  height: 63px;
+  left: 9px;
+  position: absolute;
+  top: 8px;
+  width: 63px;
+}
+
+.eventview-owner .overlap-59 {
+  background-color: #d9d9d9;
+  border: 2px solid;
+  border-color: #000000;
+  border-radius: 42px;
+  height: 84px;
+  left: 1215px;
+  position: absolute;
+  top: 161px;
+  width: 84px;
+}
+
+.eventview-owner .overlap-60 {
+  background-color: #d9d9d9;
+  border: 2px solid;
+  border-color: #000000;
+  border-radius: 42px;
+  height: 84px;
+  left: 1119px;
+  position: absolute;
+  top: 161px;
+  width: 84px;
+}
+
+.eventview-owner .overlap-61 {
+  background-color: #d9d9d9;
+  border: 2px solid;
+  border-color: #000000;
+  border-radius: 42px;
+  height: 84px;
+  left: 1023px;
+  position: absolute;
+  top: 161px;
+  width: 84px;
+}
+
+.eventview-owner .text-wrapper-64 {
+  color: #ab5013;
+  font-family: "Fredoka One", Helvetica;
+  font-size: 36px;
+  font-weight: 400;
+  height: 74px;
+  left: 29px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 10px;
+  width: 232px;
+}
+
+.eventview-owner .XXX-XXX-XXXX-6 {
+  color: #ab5013;
+  font-family: "Poppins", Helvetica;
+  font-size: 25px;
+  font-weight: 500;
+  height: 152px;
+  left: 132px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 92px;
+  width: 494px;
+}
+
+.eventview-owner .text-wrapper-65 {
+  color: #ab5013;
+  font-family: "Poppins", Helvetica;
+  font-size: 40px;
+  font-weight: 500;
+  height: 60px;
+  left: 78px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 164px;
+  width: 390px;
+}
+
+.eventview-owner .overlap-wrapper {
+  height: 60px;
+  left: 78px;
+  position: absolute;
+  top: 240px;
+  width: 203px;
+}
+
+.eventview-owner .overlap-62 {
+  height: 62px;
+  position: relative;
+  width: 205px;
+}
+
+.eventview-owner .text-wrapper-66 {
+  color: #ab5013;
+  font-family: "Poppins", Helvetica;
+  font-size: 32px;
+  font-weight: 500;
+  height: 60px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 159px;
+}
+
+.eventview-owner .poll-button-7 {
+  display: block;
+  height: 56px;
+  left: 149px;
+  position: absolute;
+  top: 6px;
+  width: 56px;
+}
+
+.eventview-owner .group-4 {
+  height: 60px;
+  left: 336px;
+  position: absolute;
+  top: 240px;
+  width: 144px;
+}
+
+.eventview-owner .text-wrapper-67 {
+  color: #ab5013;
+  font-family: "Poppins", Helvetica;
+  font-size: 32px;
+  font-weight: 500;
+  height: 60px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 86px;
+}
+
+.eventview-owner .poll-button-8 {
+  display: block;
+  height: 56px;
+  left: 90px;
+  position: absolute;
+  top: 6px;
+  width: 56px;
+}
+
+.eventview-owner .group-5 {
+  height: 60px;
+  left: 539px;
+  position: absolute;
+  top: 240px;
+  width: 146px;
+}
+
+.eventview-owner .overlap-63 {
+  height: 62px;
+  position: relative;
+  width: 148px;
+}
+
+.eventview-owner .text-wrapper-68 {
+  color: #ab5013;
+  font-family: "Poppins", Helvetica;
+  font-size: 32px;
+  font-weight: 500;
+  height: 60px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 96px;
+}
+
+.eventview-owner .poll-button-9 {
+  display: block;
+  height: 56px;
+  left: 92px;
+  position: absolute;
+  top: 6px;
+  width: 56px;
+}
+
+.eventview-owner .description-input-3 {
+  background-color: #fceed1;
+  border: 2px solid;
+  border-color: #ab5013;
+  border-radius: 5px;
+  height: 376px;
+  left: 78px;
+  position: absolute;
+  top: 346px;
+  width: 846px;
+}
+
+.eventview-owner .text-wrapper-69 {
+  color: #ab5013;
+  font-family: "Poppins", Helvetica;
+  font-size: 20px;
+  font-weight: 500;
+  left: 10px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 13px;
+  width: 823px;
+}
+
+.eventview-owner .finish-set-up-button-4 {
+  background: linear-gradient(
+    180deg,
+    rgb(255, 128, 164) 0%,
+    rgb(255, 82.87, 131.67) 100%
+  );
+  border-radius: 35px;
+  box-shadow: 0px 4px 4px #00000040;
+  display: block;
+  height: 90px;
+  left: 1194px;
+  position: absolute;
+  top: 632px;
+  width: 185px;
+}
+
+.eventview-owner .finish-set-up-3 {
+  color: #ffde9c;
+  font-family: "Fredoka One", Helvetica;
+  font-size: 25px;
+  font-weight: 400;
+  height: 64px;
+  left: 5px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  text-shadow: 0px 4px 4px #00000040;
+  top: 11px;
+  width: 175px;
+}
+
+.eventview-owner .finish-set-up-button-5 {
+  display: block;
+  height: 98px;
+  left: 975px;
+  position: absolute;
+  top: 633px;
+  width: 193px;
+}

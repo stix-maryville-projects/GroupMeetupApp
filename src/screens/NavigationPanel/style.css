@@ -1,0 +1,80 @@
+.navigation-panel {
+  background-color: rgba(255, 255, 255, 1.0);
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.navigation-panel .navigation-panel-wrapper {
+  background: linear-gradient(
+    180deg,
+    rgb(255, 128, 164) 0%,
+    rgb(255, 82.87, 131.67) 100%
+  );
+  background-color: rgba(255, 255, 255, 1.0);
+  height: 1080px;
+  overflow: hidden;
+  width: 395px;
+}
+
+.navigation-panel .div-2 {
+  background: linear-gradient(
+    180deg,
+    rgb(255, 128, 164) 0%,
+    rgb(255, 82.87, 131.67) 100%
+  );
+  border-radius: 10px;
+  height: 1080px;
+  left: 1387px;
+  overflow: hidden;
+  position: relative;
+  top: 1078px;
+}
+
+.navigation-panel .home-button-3 {
+  display: block;
+  height: 84px;
+  left: 36px;
+  position: absolute;
+  top: 25px;
+  width: 84px;
+}
+
+.navigation-panel .overlap-group-4 {
+  height: 252px;
+  left: 65px;
+  position: absolute;
+  top: 204px;
+  width: 266px;
+}
+
+.navigation-panel .home-instance {
+  left: 20px !important;
+  position: absolute !important;
+  top: 0 !important;
+}
+
+.navigation-panel .new-event-instance {
+  left: 20px !important;
+  position: absolute !important;
+  top: 84px !important;
+}
+
+.navigation-panel .upcoming-events-instance {
+  left: 0 !important;
+  position: absolute !important;
+  top: 168px !important;
+}
+
+.navigation-panel .profile-instance {
+  left: 65px !important;
+  position: absolute !important;
+  top: 585px !important;
+}
+
+.navigation-panel .log-out-instance {
+  left: 111px !important;
+  position: absolute !important;
+  top: 966px !important;
+}

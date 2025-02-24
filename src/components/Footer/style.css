@@ -1,0 +1,107 @@
+.footer {
+  height: 280px;
+  width: 1440px;
+}
+
+.footer .overlap-group-3 {
+  background: linear-gradient(
+    180deg,
+    rgb(252, 238, 209) 0%,
+    rgb(255, 222.83, 156.19) 100%
+  );
+  height: 280px;
+  position: relative;
+  width: 1920px;
+}
+
+.footer .overlap {
+  background-color: #fceed1;
+  border: 3px solid;
+  border-color: #ab5013;
+  border-radius: 42px;
+  height: 84px;
+  left: 1801px;
+  position: absolute;
+  top: 161px;
+  width: 84px;
+}
+
+.footer .line-2 {
+  height: 60px;
+  left: 10px;
+  position: absolute;
+  top: 9px;
+  width: 60px;
+}
+
+.footer .line-3 {
+  height: 63px;
+  left: 8px;
+  position: absolute;
+  top: 7px;
+  width: 63px;
+}
+
+.footer .overlap-2 {
+  background-color: #fceed1;
+  border: 3px solid;
+  border-color: #ab5013;
+  border-radius: 42px;
+  height: 84px;
+  left: 1705px;
+  position: absolute;
+  top: 161px;
+  width: 84px;
+}
+
+.footer .overlap-3 {
+  background-color: #fceed1;
+  border: 3px solid;
+  border-color: #ab5013;
+  border-radius: 42px;
+  height: 84px;
+  left: 1609px;
+  position: absolute;
+  top: 161px;
+  width: 84px;
+}
+
+.footer .overlap-4 {
+  background-color: #fceed1;
+  border: 3px solid;
+  border-color: #ab5013;
+  border-radius: 42px;
+  height: 84px;
+  left: 1513px;
+  position: absolute;
+  top: 161px;
+  width: 84px;
+}
+
+.footer .text-wrapper-7 {
+  color: #ab5013;
+  font-family: "Fredoka One", Helvetica;
+  font-size: 36px;
+  font-weight: 400;
+  height: 74px;
+  left: 29px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 10px;
+  width: 232px;
+}
+
+.footer .XXX-XXX-XXXX {
+  color: #ab5013;
+  font-family: "Poppins", Helvetica;
+  font-size: 25px;
+  font-weight: 500;
+  height: 152px;
+  left: 132px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 92px;
+  width: 494px;
+}

@@ -1,0 +1,239 @@
+.home-screen {
+  background-color: rgba(255, 255, 255, 1.0);
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.home-screen .div-3 {
+  background: linear-gradient(
+    180deg,
+    rgb(242.25, 254.58, 255) 0%,
+    rgb(210.37, 255, 244.59) 100%
+  );
+  background-color: rgba(255, 255, 255, 1.0);
+  height: 1080px;
+  overflow: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.home-screen .overlap-5 {
+  height: 267px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.home-screen .header {
+  background-color: transparent !important;
+  left: 0 !important;
+  position: absolute !important;
+  top: 0 !important;
+}
+
+.home-screen .text-wrapper-11 {
+  color: #ab5013;
+  font-family: "Fredoka One", Helvetica;
+  font-size: 40px;
+  font-weight: 400;
+  height: 142px;
+  left: 78px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 125px;
+  width: 381px;
+}
+
+.home-screen .footer-instance {
+  background-color: transparent !important;
+  left: 0 !important;
+  position: absolute !important;
+  top: 2622px !important;
+}
+
+.home-screen .footer-2 {
+  height: 58px !important;
+  left: 12px !important;
+  top: 11px !important;
+  width: 58px !important;
+}
+
+.home-screen .footer-3 {
+  height: 61px !important;
+  top: 9px !important;
+  width: 61px !important;
+}
+
+.home-screen .text-wrapper-12 {
+  color: #ab5013;
+  font-family: "Fredoka One", Helvetica;
+  font-size: 40px;
+  font-weight: 400;
+  height: 142px;
+  left: 78px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1582px;
+  width: 400px;
+}
+
+.home-screen .image-instance {
+  left: 109px !important;
+  position: absolute !important;
+  top: 268px !important;
+}
+
+.home-screen .image-2 {
+  left: 514px !important;
+  position: absolute !important;
+  top: 268px !important;
+}
+
+.home-screen .image-4 {
+  left: 919px !important;
+  position: absolute !important;
+  top: 268px !important;
+}
+
+.home-screen .rectangle-wrapper {
+  background-color: #fceed1;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 535px;
+  left: 1840px;
+  position: absolute;
+  top: 169px;
+  width: 38px;
+}
+
+.home-screen .rectangle {
+  background-color: #ad6737;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 72px;
+  position: relative;
+  top: 27px;
+}
+
+.home-screen .image-5 {
+  left: 108px !important;
+  position: absolute !important;
+  top: 686px !important;
+}
+
+.home-screen .image-6 {
+  left: 514px !important;
+  position: absolute !important;
+  top: 686px !important;
+}
+
+.home-screen .image-7 {
+  left: 109px !important;
+  position: absolute !important;
+  top: 1725px !important;
+}
+
+.home-screen .image-8 {
+  height: 237px;
+  left: 514px;
+  position: absolute;
+  top: 1725px;
+  width: 360px;
+}
+
+.home-screen .p {
+  color: #ab5013;
+  font-family: "Fredoka One", Helvetica;
+  font-size: 32px;
+  font-weight: 400;
+  height: 139px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 242px;
+  width: 360px;
+}
+
+.home-screen .text-wrapper-13 {
+  color: #ab5013;
+  font-family: "Fredoka One", Helvetica;
+  font-size: 32px;
+  font-weight: 400;
+  letter-spacing: 0;
+}
+
+.home-screen .text-wrapper-14 {
+  font-family: "Poppins", Helvetica;
+  font-size: 24px;
+  font-weight: 500;
+}
+
+.home-screen .text-wrapper-15 {
+  font-family: "Poppins", Helvetica;
+  font-size: 20px;
+  font-weight: 500;
+}
+
+.home-screen .image-instance-wrapper {
+  background-color: #fceed1;
+  border: 2px solid;
+  border-color: #ab5013;
+  border-radius: 5px;
+  height: 237px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 360px;
+}
+
+.home-screen .image-9 {
+  left: 919px !important;
+  position: absolute !important;
+  top: 1725px !important;
+}
+
+.home-screen .image-10 {
+  left: 108px !important;
+  position: absolute !important;
+  top: 2143px !important;
+}
+
+.home-screen .image-11 {
+  left: 514px !important;
+  position: absolute !important;
+  top: 2143px !important;
+}
+
+.home-screen .image-12 {
+  left: 919px !important;
+  position: absolute !important;
+  top: 686px !important;
+}
+
+.home-screen .image-13 {
+  left: 108px !important;
+  position: absolute !important;
+  top: 1104px !important;
+}
+
+.home-screen .image-14 {
+  left: 1324px !important;
+  position: absolute !important;
+  top: 268px !important;
+}
+
+.home-screen .image-15 {
+  left: 1324px !important;
+  position: absolute !important;
+  top: 686px !important;
+}
+
+.home-screen .image-16 {
+  left: 1324px !important;
+  position: absolute !important;
+  top: 1725px !important;
+}

@@ -1,0 +1,25 @@
+.log-out {
+  height: 61px;
+  position: relative;
+  width: 174px;
+}
+
+.log-out .text-wrapper-4 {
+  color: #fceed1;
+  font-family: "Poppins", Helvetica;
+  font-size: 20px;
+  font-weight: 500;
+  height: 61px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  text-shadow: 0px 4px 4px #00000040;
+  top: -1px;
+  width: 174px;
+}
+
+.log-out:hover .text-wrapper-4 {
+  color: #ffde9c;
+}

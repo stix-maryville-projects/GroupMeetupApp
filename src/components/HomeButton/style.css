@@ -1,0 +1,33 @@
+.home-button {
+  background-color: #fceed1;
+  border: 3px solid;
+  border-color: #ab5013;
+  border-radius: 42px;
+  display: block;
+  height: 84px;
+  width: 84px;
+}
+
+.home-button .overlap-group {
+  height: 62px;
+  left: 12px;
+  position: relative;
+  top: 11px;
+  width: 61px;
+}
+
+.home-button .line {
+  height: 60px;
+  left: 1px;
+  position: absolute;
+  top: 1px;
+  width: 60px;
+}
+
+.home-button .img {
+  height: 62px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 59px;
+}

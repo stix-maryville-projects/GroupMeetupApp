@@ -1,0 +1,436 @@
+.upcoming-events-screen {
+  background-color: rgba(255, 255, 255, 1.0);
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.upcoming-events-screen .upcoming-events-2 {
+  background: linear-gradient(
+    180deg,
+    rgb(242.25, 254.58, 255) 0%,
+    rgb(210.37, 255, 244.59) 100%
+  );
+  background-color: rgba(255, 255, 255, 1.0);
+  height: 1219px;
+  position: relative;
+  width: 1440px;
+}
+
+.upcoming-events-screen .navigation-bar-w-3 {
+  background: linear-gradient(
+    180deg,
+    rgb(252, 238, 209) 0%,
+    rgb(255, 222.83, 156.19) 100%
+  );
+  height: 126px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.upcoming-events-screen .notifications-4 {
+  left: 1355px !important;
+  position: absolute !important;
+  top: 39px !important;
+}
+
+.upcoming-events-screen .new-event-3 {
+  color: #ab5013;
+  font-family: "Fredoka One", Helvetica;
+  font-size: 40px;
+  font-weight: 400;
+  height: 78px;
+  left: 512px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 50px;
+  width: 416px;
+}
+
+.upcoming-events-screen .message-square-4 {
+  left: 1281px !important;
+  position: absolute !important;
+  top: 39px !important;
+}
+
+.upcoming-events-screen .home-button-5 {
+  display: block;
+  height: 84px;
+  left: 36px;
+  position: absolute;
+  top: 21px;
+  width: 84px;
+}
+
+.upcoming-events-screen .overlap-29 {
+  height: 535px;
+  left: 78px;
+  position: absolute;
+  top: 169px;
+  width: 1341px;
+}
+
+.upcoming-events-screen .event-descriptor {
+  background: linear-gradient(
+    180deg,
+    rgb(252, 238, 209) 0%,
+    rgb(255, 222.83, 156.19) 100%
+  );
+  border-radius: 5px;
+  height: 110px;
+  left: 2px;
+  position: absolute;
+  top: 141px;
+  width: 1219px;
+}
+
+.upcoming-events-screen .overlap-30 {
+  height: 87px;
+  left: 12px;
+  position: absolute;
+  top: 7px;
+  width: 1028px;
+}
+
+.upcoming-events-screen .text-wrapper-43 {
+  color: #ab5013;
+  font-family: "Fredoka One", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  height: 47px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 290px;
+}
+
+.upcoming-events-screen .this-is-where-the {
+  color: #ab5013;
+  font-family: "Poppins", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  height: 47px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 40px;
+  width: 1028px;
+}
+
+.upcoming-events-screen .overlap-group-9 {
+  border-radius: 5px;
+  height: 53px;
+  left: 1064px;
+  position: absolute;
+  top: 29px;
+  width: 140px;
+}
+
+.upcoming-events-screen .rectangle-20 {
+  background: linear-gradient(
+    180deg,
+    rgb(255, 128, 164) 0%,
+    rgb(255, 82.87, 131.67) 100%
+  );
+  border-radius: 5px;
+  box-shadow: 0px 4px 4px #00000040;
+  display: block;
+  height: 53px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 140px;
+}
+
+.upcoming-events-screen .text-wrapper-44 {
+  color: #ffde9c;
+  font-family: "Poppins", Helvetica;
+  font-size: 20px;
+  font-weight: 500;
+  height: 37px;
+  left: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  text-shadow: 0px 4px 4px #00000040;
+  top: 7px;
+  width: 115px;
+}
+
+.upcoming-events-screen .event-descriptor-2 {
+  background: linear-gradient(
+    180deg,
+    rgb(252, 238, 209) 0%,
+    rgb(255, 222.83, 156.19) 100%
+  );
+  border-radius: 5px;
+  height: 110px;
+  left: 2px;
+  position: absolute;
+  top: 273px;
+  width: 1219px;
+}
+
+.upcoming-events-screen .event-descriptor-3 {
+  background: linear-gradient(
+    180deg,
+    rgb(252, 238, 209) 0%,
+    rgb(255, 222.83, 156.19) 100%
+  );
+  border-radius: 5px;
+  height: 110px;
+  left: 2px;
+  position: absolute;
+  top: 405px;
+  width: 1219px;
+}
+
+.upcoming-events-screen .overlap-31 {
+  height: 61px;
+  left: 1060px;
+  position: absolute;
+  top: 29px;
+  width: 148px;
+}
+
+.upcoming-events-screen .rectangle-21 {
+  display: block;
+  height: 61px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 148px;
+}
+
+.upcoming-events-screen .text-wrapper-45 {
+  color: #ffde9c;
+  font-family: "Poppins", Helvetica;
+  font-size: 20px;
+  font-weight: 500;
+  height: 37px;
+  left: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  text-shadow: 0px 4px 4px #00000040;
+  top: 7px;
+  width: 115px;
+}
+
+.upcoming-events-screen .other-stuff {
+  height: 535px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1341px;
+}
+
+.upcoming-events-screen .overlap-32 {
+  background-color: #fceed1;
+  border-radius: 5px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 535px;
+  left: 1299px;
+  position: absolute;
+  top: 0;
+  width: 38px;
+}
+
+.upcoming-events-screen .rectangle-22 {
+  background-color: #ad6737;
+  border-radius: 5px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 72px;
+  position: relative;
+  top: 27px;
+}
+
+.upcoming-events-screen .overlap-33 {
+  background-color: #fceed1;
+  border: 2px solid;
+  border-color: #ab5013;
+  border-radius: 5px;
+  height: 48px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 477px;
+}
+
+.upcoming-events-screen .text-wrapper-46 {
+  color: #ab5013;
+  font-family: "Poppins", Helvetica;
+  font-size: 20px;
+  font-weight: 500;
+  height: 37px;
+  left: 7px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 3px;
+  width: 457px;
+}
+
+.upcoming-events-screen .overlap-34 {
+  background-color: #fceed1;
+  border: 2px solid;
+  border-color: #ab5013;
+  border-radius: 5px;
+  height: 40px;
+  left: 0;
+  position: absolute;
+  top: 58px;
+  width: 125px;
+}
+
+.upcoming-events-screen .text-wrapper-47 {
+  color: #ab5013;
+  font-family: "Poppins", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  height: 28px;
+  left: 10px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 4px;
+  width: 102px;
+}
+
+.upcoming-events-screen .icon {
+  height: 36px;
+  left: 498px;
+  position: absolute;
+  top: 6px;
+  width: 36px;
+}
+
+.upcoming-events-screen .event-descriptor-4 {
+  background: linear-gradient(
+    180deg,
+    rgb(252, 238, 209) 0%,
+    rgb(255, 222.83, 156.19) 100%
+  );
+  border-radius: 5px;
+  height: 110px;
+  left: 80px;
+  position: absolute;
+  top: 706px;
+  width: 1219px;
+}
+
+.upcoming-events-screen .footer-6 {
+  background: linear-gradient(
+    180deg,
+    rgb(252, 238, 209) 0%,
+    rgb(255, 222.83, 156.19) 100%
+  );
+  background-color: transparent;
+  height: 280px;
+  left: 0;
+  position: absolute;
+  top: 939px;
+  width: 1440px;
+}
+
+.upcoming-events-screen .overlap-35 {
+  background-color: #d9d9d9;
+  border: 2px solid;
+  border-color: #000000;
+  border-radius: 42px;
+  height: 84px;
+  left: 1311px;
+  position: absolute;
+  top: 161px;
+  width: 84px;
+}
+
+.upcoming-events-screen .line-8 {
+  height: 59px;
+  left: 12px;
+  position: absolute;
+  top: 10px;
+  width: 59px;
+}
+
+.upcoming-events-screen .line-9 {
+  height: 63px;
+  left: 9px;
+  position: absolute;
+  top: 8px;
+  width: 63px;
+}
+
+.upcoming-events-screen .overlap-36 {
+  background-color: #d9d9d9;
+  border: 2px solid;
+  border-color: #000000;
+  border-radius: 42px;
+  height: 84px;
+  left: 1215px;
+  position: absolute;
+  top: 161px;
+  width: 84px;
+}
+
+.upcoming-events-screen .overlap-37 {
+  background-color: #d9d9d9;
+  border: 2px solid;
+  border-color: #000000;
+  border-radius: 42px;
+  height: 84px;
+  left: 1119px;
+  position: absolute;
+  top: 161px;
+  width: 84px;
+}
+
+.upcoming-events-screen .overlap-38 {
+  background-color: #d9d9d9;
+  border: 2px solid;
+  border-color: #000000;
+  border-radius: 42px;
+  height: 84px;
+  left: 1023px;
+  position: absolute;
+  top: 161px;
+  width: 84px;
+}
+
+.upcoming-events-screen .text-wrapper-48 {
+  color: #ab5013;
+  font-family: "Fredoka One", Helvetica;
+  font-size: 36px;
+  font-weight: 400;
+  height: 74px;
+  left: 29px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 10px;
+  width: 232px;
+}
+
+.upcoming-events-screen .XXX-XXX-XXXX-4 {
+  color: #ab5013;
+  font-family: "Poppins", Helvetica;
+  font-size: 25px;
+  font-weight: 500;
+  height: 152px;
+  left: 132px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 92px;
+  width: 494px;
+}

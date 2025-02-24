@@ -1,0 +1,23 @@
+.zip-code-input {
+  background-color: #f2f2f2;
+  border: 2px solid;
+  border-color: #000000;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 48px;
+  position: relative;
+  width: 228px;
+}
+
+.zip-code-input .text-wrapper-5 {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  height: 36px;
+  left: 15px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 3px;
+  width: 194px;
+}

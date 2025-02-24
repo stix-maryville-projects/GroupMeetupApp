@@ -1,0 +1,7 @@
+.message-square {
+  background-image: url(../../../static/img/message-square.svg);
+  background-size: 100% 100%;
+  display: block;
+  height: 48px;
+  width: 48px;
+}

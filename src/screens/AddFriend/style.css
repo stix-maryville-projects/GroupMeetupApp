@@ -1,0 +1,91 @@
+.add-friend {
+  background-color: rgba(255, 255, 255, 1.0);
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.add-friend .add-friend-wrapper {
+  background: linear-gradient(
+    180deg,
+    rgb(255, 128, 164) 0%,
+    rgb(255, 82.87, 131.67) 100%
+  );
+  background-color: rgba(255, 255, 255, 1.0);
+  height: 341px;
+  overflow: hidden;
+  width: 624px;
+}
+
+.add-friend .div-5 {
+  background: linear-gradient(
+    180deg,
+    rgb(255, 128, 164) 0%,
+    rgb(255, 82.87, 131.67) 100%
+  );
+  border-radius: 10px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 341px;
+  left: 7492px;
+  overflow: hidden;
+  position: relative;
+  top: 1678px;
+}
+
+.add-friend .finish-set-up-button-2 {
+  background: linear-gradient(
+    180deg,
+    rgb(252, 238, 209) 0%,
+    rgb(255, 222.83, 156.19) 100%
+  );
+  border-radius: 35px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 90px;
+  left: 112px;
+  position: absolute;
+  top: 186px;
+  width: 400px;
+}
+
+.add-friend .text-wrapper-19 {
+  color: #ab5013;
+  font-family: "Fredoka One", Helvetica;
+  font-size: 32px;
+  font-weight: 400;
+  height: 64px;
+  left: 10px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  text-shadow: 0px 4px 4px #00000040;
+  top: 11px;
+  width: 379px;
+}
+
+.add-friend .overlap-group-6 {
+  background-color: #fceed1;
+  border: 2px solid;
+  border-color: #ab5013;
+  border-radius: 5px;
+  height: 63px;
+  left: 43px;
+  position: absolute;
+  top: 66px;
+  width: 538px;
+}
+
+.add-friend .text-wrapper-20 {
+  color: #ab5013;
+  font-family: "Poppins", Helvetica;
+  font-size: 24px;
+  font-weight: 500;
+  height: 39px;
+  left: 8px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 9px;
+  width: 363px;
+}
