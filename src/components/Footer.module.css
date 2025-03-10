@@ -1,0 +1,208 @@
+.footerChild {
+  position: absolute;
+  height: 100%;
+  width: 133.33%;
+  top: 0%;
+  right: -33.33%;
+  bottom: 0%;
+  left: 0%;
+  background: linear-gradient(
+    180deg,
+    var(--color-papayawhip),
+    var(--color-navajowhite)
+  );
+}
+.footerItem {
+  position: absolute;
+  height: 30%;
+  width: 5.83%;
+  top: 57.5%;
+  right: -30.9%;
+  bottom: 12.5%;
+  left: 125.07%;
+  border-radius: 50%;
+  background-color: var(--color-papayawhip);
+  border: 3px solid var(--color-saddlebrown-100);
+  box-sizing: border-box;
+}
+.footerInner {
+  position: absolute;
+  height: 20.54%;
+  width: 3.99%;
+  top: 62.36%;
+  right: -30.11%;
+  bottom: 17.11%;
+  left: 126.12%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: contain;
+}
+.lineIcon {
+  position: absolute;
+  height: 21.82%;
+  width: 4.24%;
+  top: 61.68%;
+  right: -30.08%;
+  bottom: 16.5%;
+  left: 125.83%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: contain;
+}
+.ellipseDiv {
+  position: absolute;
+  height: 30%;
+  width: 5.83%;
+  top: 57.5%;
+  right: -24.24%;
+  bottom: 12.5%;
+  left: 118.4%;
+  border-radius: 50%;
+  background-color: var(--color-papayawhip);
+  border: 3px solid var(--color-saddlebrown-100);
+  box-sizing: border-box;
+}
+.footerChild1 {
+  position: absolute;
+  height: 20.54%;
+  width: 3.99%;
+  top: 62.36%;
+  right: -23.44%;
+  bottom: 17.11%;
+  left: 119.45%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: contain;
+}
+.footerChild2 {
+  position: absolute;
+  height: 21.82%;
+  width: 4.24%;
+  top: 61.68%;
+  right: -23.41%;
+  bottom: 16.5%;
+  left: 119.17%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: contain;
+}
+.footerChild3 {
+  position: absolute;
+  height: 30%;
+  width: 5.83%;
+  top: 57.5%;
+  right: -17.57%;
+  bottom: 12.5%;
+  left: 111.74%;
+  border-radius: 50%;
+  background-color: var(--color-papayawhip);
+  border: 3px solid var(--color-saddlebrown-100);
+  box-sizing: border-box;
+}
+.footerChild4 {
+  position: absolute;
+  height: 20.54%;
+  width: 3.99%;
+  top: 62.36%;
+  right: -16.78%;
+  bottom: 17.11%;
+  left: 112.78%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: contain;
+}
+.footerChild5 {
+  position: absolute;
+  height: 21.82%;
+  width: 4.24%;
+  top: 61.68%;
+  right: -16.74%;
+  bottom: 16.5%;
+  left: 112.5%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: contain;
+}
+.footerChild6 {
+  position: absolute;
+  height: 30%;
+  width: 5.83%;
+  top: 57.5%;
+  right: -10.9%;
+  bottom: 12.5%;
+  left: 105.07%;
+  border-radius: 50%;
+  background-color: var(--color-papayawhip);
+  border: 3px solid var(--color-saddlebrown-100);
+  box-sizing: border-box;
+}
+.footerChild7 {
+  position: absolute;
+  height: 20.54%;
+  width: 3.99%;
+  top: 62.36%;
+  right: -10.11%;
+  bottom: 17.11%;
+  left: 106.12%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: contain;
+}
+.footerChild8 {
+  position: absolute;
+  height: 21.82%;
+  width: 4.24%;
+  top: 61.68%;
+  right: -10.08%;
+  bottom: 16.5%;
+  left: 105.83%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: contain;
+}
+.contactUs {
+  position: absolute;
+  height: 26.43%;
+  width: 16.11%;
+  top: 3.93%;
+  left: 2.01%;
+  display: flex;
+  align-items: center;
+}
+.xxxXxxXxxx {
+  margin: 0;
+}
+.xxxXxxXxxxRandomemailemaiContainer1 {
+  width: 100%;
+}
+.xxxXxxXxxxRandomemailemaiContainer {
+  position: absolute;
+  height: 54.29%;
+  width: 34.31%;
+  top: 33.21%;
+  left: 9.17%;
+  font-size: var(--font-size-6xl);
+  font-weight: 500;
+  font-family: var(--font-poppins);
+  display: flex;
+  align-items: center;
+}
+.footer {
+  position: absolute;
+  top: 800px;
+  left: 0px;
+  width: 1440px;
+  height: 280px;
+  text-align: left;
+  font-size: var(--font-size-17xl);
+  color: var(--color-saddlebrown-100);
+  font-family: var(--font-fredoka-one);
+}

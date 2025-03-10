@@ -1,0 +1,27 @@
+.homebuttonIcon {
+  position: absolute;
+  height: 7.78%;
+  width: 21.27%;
+  top: 2.31%;
+  right: 69.62%;
+  bottom: 89.91%;
+  left: 9.11%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  cursor: pointer;
+}
+.navigationpanel {
+  width: 395px;
+  position: relative;
+  border-radius: var(--br-3xs);
+  background: linear-gradient(
+    180deg,
+    var(--color-palevioletred),
+    var(--color-hotpink)
+  );
+  height: 1080px;
+  overflow: hidden;
+  max-width: 100%;
+  max-height: 100%;
+}

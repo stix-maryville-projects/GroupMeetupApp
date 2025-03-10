@@ -1,0 +1,34 @@
+.locationinputChild {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0%;
+  right: 0%;
+  bottom: 0%;
+  left: 0%;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-papayawhip);
+  border: 2px solid var(--color-saddlebrown-100);
+  box-sizing: border-box;
+}
+.location {
+  position: absolute;
+  height: 75%;
+  width: 70.3%;
+  top: 12.5%;
+  left: 4.35%;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+}
+.locationinput {
+  position: absolute;
+  top: 320px;
+  left: 120px;
+  width: 299px;
+  height: 48px;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-saddlebrown-100);
+  font-family: var(--font-poppins);
+}

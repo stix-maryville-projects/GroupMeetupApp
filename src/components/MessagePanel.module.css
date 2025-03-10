@@ -1,0 +1,166 @@
+.messagepanelChild {
+  position: absolute;
+  top: 0px;
+  left: 119px;
+  background-color: var(--color-palevioletred);
+  width: 463px;
+  height: 65px;
+}
+.messagepanelItem {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  background-color: var(--color-saddlebrown-100);
+  width: 160px;
+  height: 65px;
+}
+.messagepanelInner {
+  position: absolute;
+  top: 65px;
+  left: 0px;
+  background-color: var(--color-palevioletred);
+  width: 160px;
+  height: 1015px;
+}
+.events {
+  position: absolute;
+  top: 11px;
+  left: 6px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 145px;
+  height: 42px;
+}
+.eventTitle {
+  position: absolute;
+  top: 7px;
+  left: 130px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 442px;
+  height: 51px;
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.rectangleDiv {
+  position: absolute;
+  top: 997px;
+  left: 160px;
+  background-color: var(--color-sienna);
+  width: 422px;
+  height: 83px;
+}
+.finishsetupbutton {
+  position: absolute;
+  top: 1008px;
+  left: 484px;
+  width: 90px;
+  height: 62px;
+}
+.messagepanelChild1 {
+  position: absolute;
+  top: 1008px;
+  left: 172px;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-papayawhip);
+  border: 2px solid var(--color-saddlebrown-100);
+  box-sizing: border-box;
+  width: 302px;
+  height: 62px;
+}
+.newMessage {
+  position: absolute;
+  top: 1016px;
+  left: 182px;
+  font-size: var(--font-size-xl);
+  font-weight: 500;
+  font-family: var(--font-poppins);
+  color: var(--color-saddlebrown-100);
+  text-align: left;
+  display: inline-block;
+  width: 282px;
+  height: 44px;
+}
+.userprofileicon {
+  position: absolute;
+  top: 88px;
+  left: 182px;
+  width: 53px;
+  height: 53px;
+}
+.messagepanelChild2 {
+  position: absolute;
+  top: 111px;
+  left: 248px;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  background-color: var(--color-palevioletred);
+  width: 260px;
+  height: 61px;
+}
+.userprofileicon1 {
+  position: absolute;
+  top: 428px;
+  left: 182px;
+  width: 53px;
+  height: 53px;
+}
+.messagepanelChild3 {
+  position: absolute;
+  top: 451px;
+  left: 248px;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  background-color: var(--color-palevioletred);
+  width: 260px;
+  height: 61px;
+}
+.userprofileicon2 {
+  position: absolute;
+  top: 187px;
+  left: 182px;
+  width: 53px;
+  height: 53px;
+}
+.userprofileicon3 {
+  position: absolute;
+  top: 331px;
+  left: 502px;
+  width: 53px;
+  height: 53px;
+}
+.messagepanelChild4 {
+  position: absolute;
+  top: 219px;
+  left: 248px;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  background-color: var(--color-palevioletred);
+  width: 260px;
+  height: 93px;
+}
+.messagepanelChild5 {
+  position: absolute;
+  top: 359px;
+  left: 226px;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  background-color: var(--color-hotpink);
+  width: 260px;
+  height: 47px;
+}
+.messagepanel {
+  width: 582px;
+  position: relative;
+  border-radius: var(--br-3xs);
+  background: linear-gradient(
+    180deg,
+    var(--color-papayawhip),
+    var(--color-navajowhite)
+  );
+  height: 1080px;
+  overflow: hidden;
+  max-width: 100%;
+  max-height: 100%;
+  text-align: center;
+  font-size: var(--font-size-13xl);
+  color: var(--color-papayawhip);
+  font-family: var(--font-fredoka-one);
+}

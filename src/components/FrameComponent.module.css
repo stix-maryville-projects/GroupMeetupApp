@@ -1,0 +1,188 @@
+.groupChild {
+  position: absolute;
+  height: 42.05%;
+  width: 100%;
+  top: 0%;
+  right: 0%;
+  bottom: 57.95%;
+  left: 0%;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-papayawhip);
+  border: 2px solid var(--color-saddlebrown-100);
+  box-sizing: border-box;
+}
+.groupItem {
+  position: absolute;
+  height: 42.05%;
+  width: 100%;
+  top: 57.95%;
+  right: 0%;
+  bottom: 0%;
+  left: 0%;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-papayawhip);
+  border: 2px solid var(--color-saddlebrown-100);
+  box-sizing: border-box;
+}
+.groupInner {
+  position: absolute;
+  height: 42.05%;
+  width: 100%;
+  top: 115.91%;
+  right: 0%;
+  bottom: -57.95%;
+  left: 0%;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-papayawhip);
+  border: 2px solid var(--color-saddlebrown-100);
+  box-sizing: border-box;
+  display: none;
+}
+.rectangleDiv {
+  position: absolute;
+  height: 42.05%;
+  width: 100%;
+  top: 172.73%;
+  right: 0%;
+  bottom: -114.77%;
+  left: 0%;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-papayawhip);
+  border: 2px solid var(--color-saddlebrown-100);
+  box-sizing: border-box;
+  display: none;
+}
+.groupChild1 {
+  position: absolute;
+  height: 42.05%;
+  width: 100%;
+  top: 229.55%;
+  right: 0%;
+  bottom: -171.59%;
+  left: 0%;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-papayawhip);
+  border: 2px solid var(--color-saddlebrown-100);
+  box-sizing: border-box;
+  display: none;
+}
+.groupChild2 {
+  position: absolute;
+  height: 42.05%;
+  width: 100%;
+  top: 286.36%;
+  right: 0%;
+  bottom: -228.41%;
+  left: 0%;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-papayawhip);
+  border: 2px solid var(--color-saddlebrown-100);
+  box-sizing: border-box;
+  display: none;
+}
+.groupChild3 {
+  position: absolute;
+  height: 42.05%;
+  width: 100%;
+  top: 343.18%;
+  right: 0%;
+  bottom: -285.23%;
+  left: 0%;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-papayawhip);
+  border: 2px solid var(--color-saddlebrown-100);
+  box-sizing: border-box;
+  display: none;
+}
+.friendusername {
+  position: absolute;
+  height: 40.91%;
+  width: 91.92%;
+  top: 0%;
+  left: 3.84%;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+}
+.otherfriendusername {
+  position: absolute;
+  height: 40.91%;
+  width: 91.92%;
+  top: 57.95%;
+  left: 3.84%;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+}
+.newfriend {
+  position: absolute;
+  height: 40.91%;
+  width: 91.92%;
+  top: 115.91%;
+  left: 3.84%;
+  font-weight: 500;
+  display: none;
+  align-items: center;
+}
+.thatoneguy {
+  position: absolute;
+  height: 40.91%;
+  width: 91.92%;
+  top: 173.86%;
+  left: 3.84%;
+  font-weight: 500;
+  display: none;
+  align-items: center;
+}
+.cooldude3000 {
+  position: absolute;
+  height: 40.91%;
+  width: 91.92%;
+  top: 230.68%;
+  left: 3.84%;
+  font-weight: 500;
+  display: none;
+  align-items: center;
+}
+.niceguy {
+  position: absolute;
+  height: 40.91%;
+  width: 91.92%;
+  top: 287.5%;
+  left: 3.84%;
+  font-weight: 500;
+  display: none;
+  align-items: center;
+}
+.wiseguy {
+  position: absolute;
+  height: 40.91%;
+  width: 91.92%;
+  top: 344.32%;
+  left: 3.84%;
+  font-weight: 500;
+  display: none;
+  align-items: center;
+}
+.rectangleParent {
+  position: absolute;
+  height: 37.93%;
+  width: 74.29%;
+  top: 9.91%;
+  right: 20.26%;
+  bottom: 52.16%;
+  left: 5.44%;
+}
+.instanceParent {
+  position: absolute;
+  top: 75px;
+  left: 0px;
+  background-color: var(--color-gray-100);
+  width: 340px;
+  height: 232px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-saddlebrown-100);
+  font-family: var(--font-poppins);
+}

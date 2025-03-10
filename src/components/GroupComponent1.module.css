@@ -1,0 +1,139 @@
+.groupChild {
+  position: absolute;
+  height: 26.14%;
+  width: 74.69%;
+  top: 0%;
+  right: 25.31%;
+  bottom: 73.86%;
+  left: 0%;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-papayawhip);
+  border: 2px solid var(--color-saddlebrown-100);
+  box-sizing: border-box;
+}
+.groupItem {
+  position: absolute;
+  height: 26.14%;
+  width: 51.07%;
+  top: 36.66%;
+  right: 48.93%;
+  bottom: 37.19%;
+  left: 0%;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-papayawhip);
+  border: 2px solid var(--color-saddlebrown-100);
+  box-sizing: border-box;
+}
+.groupInner {
+  position: absolute;
+  height: 26.14%;
+  width: 51.07%;
+  top: 73.86%;
+  right: 48.79%;
+  bottom: 0%;
+  left: 0.14%;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-papayawhip);
+  border: 2px solid var(--color-saddlebrown-100);
+  box-sizing: border-box;
+}
+.rectangleDiv {
+  position: absolute;
+  height: 26.14%;
+  width: 42.35%;
+  top: 73.86%;
+  right: 0%;
+  bottom: 0%;
+  left: 57.65%;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-papayawhip);
+  border: 2px solid var(--color-saddlebrown-100);
+  box-sizing: border-box;
+}
+.groupChild1 {
+  position: absolute;
+  height: 26.14%;
+  width: 42.35%;
+  top: 36.66%;
+  right: 0%;
+  bottom: 37.19%;
+  left: 57.65%;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-papayawhip);
+  border: 2px solid var(--color-saddlebrown-100);
+  box-sizing: border-box;
+}
+.friendLink {
+  position: absolute;
+  top: 6px;
+  left: 594px;
+  text-decoration: underline;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  width: 134px;
+  height: 38px;
+}
+.nameusername {
+  position: absolute;
+  top: 9px;
+  left: 14px;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  width: 390px;
+  height: 30px;
+}
+.email {
+  position: absolute;
+  top: 79px;
+  left: 14px;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  width: 260px;
+  height: 30px;
+}
+.address {
+  position: absolute;
+  top: 149px;
+  left: 14px;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  width: 260px;
+  height: 30px;
+}
+.phone {
+  position: absolute;
+  top: 79px;
+  left: 442px;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  width: 211px;
+  height: 30px;
+}
+.dob {
+  position: absolute;
+  top: 149px;
+  left: 442px;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  width: 211px;
+  height: 30px;
+}
+.rectangleParent {
+  position: absolute;
+  height: 17.43%;
+  width: 38.21%;
+  top: 41.3%;
+  right: 57.78%;
+  bottom: 41.28%;
+  left: 4.01%;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-saddlebrown-100);
+  font-family: var(--font-poppins);
+}

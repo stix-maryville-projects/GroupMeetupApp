@@ -1,0 +1,132 @@
+.navigationBarWpageTitleChild {
+  position: absolute;
+  height: 100%;
+  width: 133.33%;
+  top: 0%;
+  right: -33.33%;
+  bottom: 0%;
+  left: 0%;
+  background: linear-gradient(
+    180deg,
+    var(--color-papayawhip),
+    var(--color-navajowhite)
+  );
+}
+.notificationsIcon {
+  position: absolute;
+  height: 38.1%;
+  width: 3.33%;
+  top: 30.95%;
+  right: -30.83%;
+  bottom: 30.95%;
+  left: 127.5%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.searchIcon {
+  position: absolute;
+  height: 38.1%;
+  width: 3.33%;
+  top: 30.95%;
+  right: 40.83%;
+  bottom: 30.95%;
+  left: 55.83%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  display: none;
+}
+.zipcodeinputChild {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0%;
+  right: 0%;
+  bottom: 0%;
+  left: 0%;
+  background-color: var(--color-whitesmoke);
+  border: 2px solid var(--color-black);
+  box-sizing: border-box;
+}
+.zipCode {
+  position: absolute;
+  height: 75%;
+  width: 85.09%;
+  top: 12.5%;
+  left: 7.46%;
+  display: flex;
+  align-items: center;
+}
+.zipcodeinput {
+  position: absolute;
+  height: 38.1%;
+  width: 15.83%;
+  top: 30.95%;
+  right: 69.72%;
+  bottom: 30.95%;
+  left: 14.44%;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  display: none;
+}
+.distance {
+  position: absolute;
+  height: 75%;
+  width: 88.75%;
+  top: 12.5%;
+  left: 5.63%;
+  display: flex;
+  align-items: center;
+}
+.distanceinput {
+  position: absolute;
+  height: 38.1%;
+  width: 22.22%;
+  top: 30.95%;
+  right: 45.83%;
+  bottom: 30.95%;
+  left: 31.94%;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  display: none;
+}
+.newEvent {
+  position: absolute;
+  top: 51px;
+  left: 770px;
+  font-size: var(--font-size-21xl);
+  font-family: var(--font-fredoka-one);
+  color: var(--color-saddlebrown-100);
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 416px;
+  height: 78px;
+}
+.messageSquareIcon {
+  position: absolute;
+  top: 39px;
+  left: 1762px;
+  width: 48px;
+  height: 48px;
+  cursor: pointer;
+}
+.homebuttonIcon {
+  position: absolute;
+  top: 21px;
+  left: 36px;
+  width: 84px;
+  height: 84px;
+  cursor: pointer;
+}
+.navigationBarWpageTitle {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 1440px;
+  height: 126px;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

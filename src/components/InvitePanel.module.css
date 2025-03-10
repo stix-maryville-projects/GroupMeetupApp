@@ -1,0 +1,97 @@
+.invitepanelChild {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0%;
+  right: 0%;
+  bottom: 0%;
+  left: 0%;
+  border-radius: var(--br-mini);
+  background: linear-gradient(
+    180deg,
+    var(--color-palevioletred),
+    var(--color-hotpink)
+  );
+}
+.invitepanelItem {
+  position: absolute;
+  height: 15.66%;
+  width: 97.25%;
+  top: 84.34%;
+  right: 2.75%;
+  bottom: 0%;
+  left: 0%;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-papayawhip);
+  border: 2px solid var(--color-saddlebrown-100);
+  box-sizing: border-box;
+}
+.invitepanelInner {
+  position: absolute;
+  height: 20.6%;
+  width: 100%;
+  top: 0%;
+  right: 0%;
+  bottom: 79.4%;
+  left: 0%;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: var(--br-mini);
+  background-color: var(--color-navajowhite);
+}
+.invited {
+  position: absolute;
+  height: 14.56%;
+  width: 46.25%;
+  top: 3.02%;
+  left: 5.75%;
+  font-size: var(--font-size-21xl);
+  font-family: var(--font-fredoka-one);
+  display: flex;
+  align-items: center;
+}
+.newInvited {
+  position: absolute;
+  height: 12.64%;
+  width: 62%;
+  top: 85.71%;
+  left: 3.5%;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+}
+.rectangleDiv {
+  position: absolute;
+  height: 54.67%;
+  width: 9.5%;
+  top: 25.82%;
+  right: 2.75%;
+  bottom: 19.51%;
+  left: 87.75%;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: var(--br-8xs);
+  background-color: var(--color-papayawhip);
+}
+.invitepanelChild1 {
+  position: absolute;
+  height: 10.16%;
+  width: 9.5%;
+  top: 28.57%;
+  right: 2.75%;
+  bottom: 61.26%;
+  left: 87.75%;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: var(--br-8xs);
+  background-color: var(--color-sienna);
+}
+.invitepanel {
+  position: absolute;
+  top: 207px;
+  left: 1324px;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  width: 400px;
+  height: 364px;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-saddlebrown-100);
+  font-family: var(--font-poppins);
+}

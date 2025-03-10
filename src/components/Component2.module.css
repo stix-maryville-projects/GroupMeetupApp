@@ -1,0 +1,40 @@
+.component1Child {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0%;
+  right: 0%;
+  bottom: 0%;
+  left: 0%;
+  border-radius: var(--br-mini);
+  background: linear-gradient(
+    180deg,
+    var(--color-sienna),
+    var(--color-saddlebrown-100)
+  );
+}
+.enter {
+  position: absolute;
+  height: 80.7%;
+  width: 85.71%;
+  top: 8.77%;
+  left: 7.14%;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.component1 {
+  position: absolute;
+  height: 15.66%;
+  width: 31.5%;
+  top: 84.07%;
+  right: 0%;
+  bottom: 0.27%;
+  left: 68.5%;
+  text-align: center;
+  font-size: var(--font-size-5xl);
+  color: var(--color-navajowhite);
+  font-family: var(--font-poppins);
+}

@@ -1,0 +1,29 @@
+.letsHangOut {
+  position: absolute;
+  top: 191px;
+  left: 126px;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  width: 500px;
+  height: 60px;
+}
+.finishsetupbutton {
+  position: absolute;
+  top: 659px;
+  left: 1395px;
+  width: 185px;
+  height: 90px;
+  cursor: pointer;
+}
+.eventviewOwner {
+  width: 100%;
+  position: relative;
+  background: linear-gradient(180deg, #f2feff, #d2fff5);
+  height: 1080px;
+  overflow-y: auto;
+  text-align: left;
+  font-size: var(--font-size-21xl);
+  color: var(--color-saddlebrown-100);
+  font-family: var(--font-poppins);
+}

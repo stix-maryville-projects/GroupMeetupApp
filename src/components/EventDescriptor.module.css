@@ -1,0 +1,47 @@
+.eventdescriptorChild {
+  position: absolute;
+  height: 100%;
+  width: 137.82%;
+  top: 0%;
+  right: -37.82%;
+  bottom: 0%;
+  left: 0%;
+  border-radius: var(--br-8xs);
+  background: linear-gradient(
+    180deg,
+    var(--color-papayawhip),
+    var(--color-navajowhite)
+  );
+}
+.eventTitle {
+  position: absolute;
+  height: 42.73%;
+  width: 23.79%;
+  top: 7.27%;
+  left: 0.98%;
+  font-family: var(--font-fredoka-one);
+  display: flex;
+  align-items: center;
+}
+.thisIsWhere {
+  position: absolute;
+  height: 42.73%;
+  width: 121.08%;
+  top: 43.64%;
+  left: 0.98%;
+  font-size: var(--font-size-base);
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+}
+.eventdescriptor {
+  position: absolute;
+  top: 310px;
+  left: 80px;
+  width: 1219px;
+  height: 110px;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-saddlebrown-100);
+  font-family: var(--font-poppins);
+}

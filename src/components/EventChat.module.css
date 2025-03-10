@@ -1,0 +1,33 @@
+.eventchatChild {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0%;
+  right: 0%;
+  bottom: 0%;
+  left: 0%;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  background-color: var(--color-hotpink);
+}
+.eventTitle {
+  position: absolute;
+  height: 72.41%;
+  width: 88.75%;
+  top: 13.79%;
+  left: 5.63%;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.eventchat {
+  position: absolute;
+  top: 79px;
+  left: 0px;
+  width: 160px;
+  height: 58px;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-papayawhip);
+  font-family: var(--font-poppins);
+}

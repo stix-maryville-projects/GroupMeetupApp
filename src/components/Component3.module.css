@@ -1,0 +1,41 @@
+.component5Child {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0%;
+  right: 0%;
+  bottom: 0%;
+  left: 0%;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: var(--br-8xs);
+  background: linear-gradient(
+    180deg,
+    var(--color-palevioletred),
+    var(--color-hotpink)
+  );
+}
+.viewEvent {
+  position: absolute;
+  height: 69.81%;
+  width: 82.14%;
+  top: 15.09%;
+  left: 8.57%;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.component5 {
+  position: absolute;
+  height: 48.18%;
+  width: 11.48%;
+  top: 26.36%;
+  right: -35.52%;
+  bottom: 25.45%;
+  left: 124.04%;
+  text-align: center;
+  font-size: var(--font-size-xl);
+  color: var(--color-navajowhite);
+  font-family: var(--font-poppins);
+}
